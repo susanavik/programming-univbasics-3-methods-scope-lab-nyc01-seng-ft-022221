@@ -1,18 +1,18 @@
-def mario(status_1)
-  status_1 = "It's-a me, Mario!"
-  puts status_1
+def mario
+  status = "It's-a me, Mario!"
+  puts status
 end
 
-def toadstool(status_2)
-  status_2 = "Thank You Mario! But Our Princess Is In Another Castle!"
-  puts status_2
+def toadstool
+  status = "Thank You Mario! But Our Princess Is In Another Castle!"
+  puts status
 end
 
-def link(status_3)
-    status_3 = "It's Dangerous To Go Alone! Take This"
-  puts status_3
+def link
+    status = "It's Dangerous To Go Alone! Take This"
+  puts status
 end
 
-mario(status_1)
-toadstool(status_2)
-link(status_3)
+mario
+toadstool
+link
