@@ -9,7 +9,7 @@ def toadstool(status_2)
 end
 
 def link(status_3)
-    status_3 = 'It's Dangerous To Go Alone! Take This'
+    status_3 = "It's Dangerous To Go Alone! Take This"
   puts status_3
 end
 
